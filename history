@@ -1,0 +1,19 @@
+/list
+int n = 68;
+byte b = 127;
+char c ='B';
+b = n
+C = n;
+b = n;
+/list
+/edit 5
+/list
+/list
+/list 6
+/edit 6
+/edit 5
+/list
+/edit 6
+/list
+/save snippet
+/save --history history

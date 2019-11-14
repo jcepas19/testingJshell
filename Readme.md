@@ -2,6 +2,7 @@
 
 ------------------------------
 
+###Errors
 jshell> b = n;
 |  Error:
 |  incompatible types: possible loss
@@ -15,3 +16,4 @@ jshell> C = n;
 |    symbol:   variable C
 |  C = n;
 |  ^
+
