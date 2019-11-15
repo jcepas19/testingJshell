@@ -1,8 +1,8 @@
-#Repository for testing jshell
+# Repository for testing jshell
 
 ------------------------------
 
-##Errors
+## Errors
 jshell> b = n;
 
 
@@ -41,7 +41,7 @@ jshell> C = n;
 |  ^
 
 
-###After errors fixed
+### After errors fixed
    
    
    3 : int n = 68;
